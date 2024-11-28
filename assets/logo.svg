@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1122.5197 793.70081"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4"
+     inkscape:cx="656.25"
+     inkscape:cy="352.75"
+     inkscape:window-width="1854"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffff00" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#096a2e;fill-opacity:1;stroke:#096a2e;stroke-width:8.92008;stroke-opacity:1"
+       id="rect3"
+       width="1113.5887"
+       height="785.50952"
+       x="4.4287868"
+       y="4.3072033" />
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;fill:#ffffff"
+       x="547.51208"
+       y="318.93634"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="547.51208"
+         y="318.93634"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Comfortaa;-inkscape-font-specification:Comfortaa">tragelio</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;fill:#ffffff"
+       x="533.93396"
+       y="317.59567"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="533.93396"
+         y="317.59567"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Comfortaa;-inkscape-font-specification:Comfortaa">T</tspan></text>
+    <circle
+       style="fill:none;stroke:#ffffff;stroke-width:0.523563"
+       id="path2"
+       cx="537.86395"
+       cy="312.90967"
+       r="7.2441268" />
+  </g>
+</svg>
